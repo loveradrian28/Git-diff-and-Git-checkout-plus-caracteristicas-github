@@ -28,3 +28,8 @@ Para ello seguiremos los siguientes pasos:
     3. Salimos de la lista de commits presionando la letra "q"
     4. Aplicamos el comando "git checkout" seguido del indice al que queremos acceder
     5. Ahora entramos en un area donde podemos hacer cambios sin que afecte a las versiones anteriores. Si por alguna razón queremos guardar estos cambios, utilizamos el comando "git switch -c <nombre-del-nuevo-branch>. Si no, podemos utilizar el comando "git switch -" para volver a la versión en la que estabamos antes de utilizar el comando "git checkout". 
+
+
+video explicativo 
+
+    https://www.youtube.com/watch?v=ZomKZan8mBw&ab_channel=AdrianLovera
